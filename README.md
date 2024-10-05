@@ -13,7 +13,7 @@ This program reads player data from a CSV file, distributes players into balance
 
 The flowchart below illustrates the main operations of the program:
 
-![Distributed Team Flowchart](distributedTeam.png)
+![Distributed Team Flowchart](distributeTeam.png)
 
 ## How to Run the Program
 
